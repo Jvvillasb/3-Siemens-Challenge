@@ -12,4 +12,4 @@ Your solution should be using as few lines of code as possible, but you should p
 - **Organization**:  First, we create the **output** string, then handle specific cases in the **switch**.
 - **Readability**: The logic becomes clearer and more modular.
 
-## Link for Test: https://onlinegdb.com/ox_1R_xZr
+## Link for Test: https://onlinegdb.com/ox_1R_xZr 
